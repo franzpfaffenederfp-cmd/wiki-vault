@@ -31,7 +31,7 @@ Aussage steht an genau einer Stelle, andere Seiten verlinken darauf.
 ## Seiten
 
 ### Richtlinien
-  - [[richtlinien/mobilgeraete-passwort-sperre|Passwort und Gerätesperre für Mobilgeräte]] (Entwurf)
+- [[richtlinien/mobilgeraete-passwort-sperre|Passwort und Gerätesperre für Mobilgeräte]] (Entwurf)
 
 ### Umsetzung
 - [[umsetzung/uem/it-richtlinie-passwort|Passwort und Gerätesperre in BlackBerry UEM]] (Beispielseite)
@@ -41,7 +41,6 @@ Aussage steht an genau einer Stelle, andere Seiten verlinken darauf.
 - [[betrieb/quellenregister-behoerden|Quellenregister österreichische Behördenvorgaben]] (KI-Recherche, nicht verbindlich)
 
 ### Noch leer
-- Richtlinien
 - Plattform
 - Extern
 
