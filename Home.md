@@ -30,6 +30,9 @@ Aussage steht an genau einer Stelle, andere Seiten verlinken darauf.
 
 ## Seiten
 
+### Richtlinien
+  - [[richtlinien/mobilgeraete-passwort-sperre|Passwort und Gerätesperre für Mobilgeräte]] (Entwurf)
+
 ### Umsetzung
 - [[umsetzung/uem/it-richtlinie-passwort|Passwort und Gerätesperre in BlackBerry UEM]] (Beispielseite)
 - [[umsetzung/intune/passwort-geraetesperre|Passwort und Gerätesperre in Microsoft Intune]] (Beispielseite)
